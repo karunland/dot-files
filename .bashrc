@@ -1,1 +1,0 @@
-/home/karun/.bashrc
