@@ -1,0 +1,11 @@
+*.database
+*.xml
+*.locale
+*.list
+*.json
+
+**/Code
+**/Microsoft
+**/JetBrains
+**/session
+**/libreoffice
