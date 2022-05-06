@@ -1,0 +1,24 @@
+set tabsize 2
+	
+set linenumbers
+
+set autoindent
+
+set mouse 
+
+set smooth
+
+set titlecolor black,blue
+
+set casesensitive
+
+set nowrap
+
+set historylog
+
+set nohelp
+
+include "/usr/share/nano/python.nanorc"
+include "/usr/share/nano/c.nanorc"
+include "/usr/share/nano/nanorc.nanorc"
+include "/usr/share/nano/asm.nanorc"
