@@ -124,3 +124,4 @@ fi
 #export PATH=/usr/lib/ccache:$PATH
 #source /home/karun/git/ardupilot/Tools/completion/completion.bash
 . "$HOME/.cargo/env"
+source /home/karun/git/ardupilot/Tools/completion/completion.bash
