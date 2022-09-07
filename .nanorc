@@ -6,13 +6,13 @@ set autoindent
 
 set mouse 
 
-set smooth
+#set smooth
 
 set titlecolor black,blue
 
 set casesensitive
 
-set nowrap
+#set nowrap
 
 set historylog
 
